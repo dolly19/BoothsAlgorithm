@@ -6,10 +6,14 @@ them to twos complement) and then performed the booth's algorithm to find the re
 
 The operations carried out by functions are as follows-
 
-1.isBinary()- check whether the given integer is binary or not.
+1. isBinary()- check whether the given integer is binary or not.
+
 2. binary()- Converts the number in binary format.
+
 3. twoscomplement()- Converts the negative number in twos complement form.
+
 4. add()- Used to add two binary strings.
+
 5. ARM()- Used to do an arithmetic right shift of the binary strings.
-6. boothMul()- Two numbers (Multiplier and Multiplicand) is passed, and then it uses all above
-functions to perform the booth's multiplication.
+
+6. boothMul()- Two numbers (Multiplier and Multiplicand) is passed, and then it uses all above functions to perform the booth's multiplication.
