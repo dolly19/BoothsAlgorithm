@@ -1,4 +1,4 @@
-# Booth-sAlgorithm
+# BoothsAlgorithm
 Implemented the booth's algorithm for multiplying binary numbers
 
 Followed Booth's Algorithm to multiply two numbers. Firstly it will check the inputs are in binary or not. If not, then the numbers are converted to their respective signed binary strings(for negative numbers, It will convert
