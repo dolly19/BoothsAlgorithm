@@ -17,3 +17,5 @@ The operations carried out by functions are as follows-
 5. ARM()- Used to do an arithmetic right shift of the binary strings.
 
 6. boothMul()- Two numbers (Multiplier and Multiplicand) is passed, and then it uses all above functions to perform the booth's multiplication.
+
+**Computer Organisation Course (IIITD Winter 2020 Semester) Lab Assignments**
